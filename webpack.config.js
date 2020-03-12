@@ -5,7 +5,7 @@ const config = {
   entry: './index.js',
   output: {
     path: '/',
-    filename: 'bundle.js'
+    filename: 'tmp/bundle.js'
   }
 };
 
